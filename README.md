@@ -7,4 +7,4 @@
 
 ---
 ### おすすめの曲
-[![YouTube](https://img.youtube.com/vi/5LdtyGzg63s/maxresdefault.jpg)](https://youtu.be/5LdtyGzg63s?list=RD5LdtyGzg63s)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4tzB4s9CsbC9WR7tqRhRFc?utm_source=generator&si=ae801a73916049d4" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
