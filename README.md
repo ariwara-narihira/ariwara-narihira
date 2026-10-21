@@ -7,4 +7,4 @@
 
 ---
 ### おすすめの曲
-https://youtu.be/5LdtyGzg63s
+[![YouTube](https://img.youtube.com/vi/5LdtyGzg63s/maxresdefault.jpg)](https://youtu.be/5LdtyGzg63s?list=RD5LdtyGzg63s)
